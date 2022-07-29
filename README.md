@@ -10,7 +10,7 @@ To simplify, this further simplifies the simplest networking framework. That sim
 
 ### **Demo**
 
-[demo](Media/Demo.gif)
+![demo](Media/Demo.gif)
 
 ### **How to use?** 
 ---
