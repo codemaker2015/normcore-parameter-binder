@@ -51,4 +51,3 @@ To simplify, this further simplifies the simplest networking framework. That sim
 
 	I came across some use-cases which essentially uses float for vector3-(x,x,x). In such cases this is useful. If the float value changes to `x` it will update the vector to `(x,x,x)`. Vice versa if the vector's `x` property is changed to `y` then it will update the float. Note that the change in the value of `y` and `z` won't be reflected. More property binders like float to color are coming soon. 
 ---
-### **GOT MORE QUESTIONS - Feel Free to create an issue or reach out to me at [Twitter](https://twitter.com/chetu3319)**
